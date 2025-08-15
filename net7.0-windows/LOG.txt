@@ -1,4 +1,0 @@
-[8/15/2025 6:04:32 PM] - Login to backend successful.
-[8/15/2025 6:04:34 PM] - Launch process started using 3551.dll
-[8/15/2025 6:04:35 PM] - Successfully patched game files
-[8/15/2025 6:04:35 PM] - Fortnite was launched successfully
